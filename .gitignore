@@ -1,6 +1,0 @@
-#comment a line using #
-#Ignore the following file types:
-*.o
-
-#Ignore the following folders
-Debug/
