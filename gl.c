@@ -7,7 +7,3 @@ double potential(double lon_geodetic, double lat_geodetic, double height_geodeti
 
 }
 
-double f1(double i, double j)
-{
-
-}
