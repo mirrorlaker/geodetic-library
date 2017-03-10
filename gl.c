@@ -6,4 +6,8 @@ double potential(double lon_geodetic, double lat_geodetic, double height_geodeti
 {
 
 }
+int f1(int i, int j)
+{
+
+}
 
