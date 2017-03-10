@@ -10,4 +10,4 @@ int f1(int i, int j)
 {
 
 }
-
+int f2()
